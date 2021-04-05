@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-react-native-bk",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/mrbrentkelly/eslint-config-react-native-bk.git",
+  "author": "Brent Kelly",
+  "license": "MIT",
+  "dependencies": {
+    "@react-native-community/eslint-config": "^2.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=7"
+  },
+  "devDependencies": {
+    "eslint": "7.12.0"
+  }
+}
